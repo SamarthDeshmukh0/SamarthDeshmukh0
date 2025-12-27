@@ -18,7 +18,7 @@ Final-year B.E. CSE student passionate about building **scalable backend systems
 
 1. **[SmartShelfX – Infosys Springboard](https://github.com/SamarthDeshmukh0/Infosys-SpringBoard)**  
    AI-based inventory forecast and auto-restock system developed during Infosys Springboard internship using Spring Boot, React, MySQL, and ML services.
-   ## 🎥 Demo Video[👉 View Project Demo](https://drive.google.com/file/d/148Q_F3eb_N06r-YZ66CxY0MFOo9dzRLA/view?usp=drive_link)
+   ## 🎥 Demo Video[👉 View Project Demo](https://drive.google.com/file/d/148Q_F3eb_N06r-YZ66CxY0MFOo9dzRLA/view)
 
 2. **[Employee Management System](https://github.com/SamarthDeshmukh0/Employee-Management-System)**  
    Full-stack employee management application built with Spring Boot, React, and MySQL.
