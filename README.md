@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm Samarth Deshmukh 👋
 
-<!--
-**SamarthDeshmukh0/SamarthDeshmukh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Developer | Java | Spring Boot | SQL | MySQL | Python**
 
-Here are some ideas to get you started:
+Final-year B.E. CSE student passionate about building **scalable backend systems** and AI-powered projects. Experienced in **Java, Spring Boot, Python, MySQL**, and developing real-world applications through internships and personal projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+- **Languages:** Java, Python, SQL  
+- **Backend:** Spring, Spring Boot, REST APIs  
+- **Database:** MySQL  
+- **Data & Tools:** Pandas, Flask, ML Services  
+
+---
+
+## 🚀 Projects
+
+1. **[AI Medical Chatbot](https://github.com/SamarthDeshmukh0/AI-Medical-Chatbot)**  
+   AI-powered chatbot with voice and vision capabilities using Python, Gradio, Groq, and ElevenLabs.
+
+2. **[Employee Management System](https://github.com/SamarthDeshmukh0/Employee-Management-System)**  
+   Full-stack employee management application built with Spring Boot, React, and MySQL.
+
+3. **[SmartShelfX – Infosys Springboard](https://github.com/SamarthDeshmukh0/Infosys-SpringBoard)**  
+   AI-based inventory forecast and auto-restock system developed during Infosys Springboard internship using Spring Boot, React, MySQL, and ML services.
+
+---
+
+## 💼 Internship
+- **Java Stack Intern – Infosys Springboard**  
+  Worked on SmartShelfX project, strengthening backend development and AI integration skills.
+
+---
+
+## 📫 Contact
+- Email: [samarthjdeshmukh@gmail.com](mailto:samarthjdeshmukh@gmail.com)  
+- GitHub: [https://github.com/SamarthDeshmukh0](https://github.com/SamarthDeshmukh0)
+
+---
+
