@@ -10,20 +10,20 @@ Final-year B.E. CSE student passionate about building **scalable backend systems
 - **Languages:** Java, Python, SQL  
 - **Backend:** Spring, Spring Boot, REST APIs  
 - **Database:** MySQL  
-- **Data & Tools:** Pandas, Flask, ML Services  
+- **Data & Tools:** Pandas, ML Services  
 
 ---
 
 ## 🚀 Projects
 
-1. **[AI Medical Chatbot](https://github.com/SamarthDeshmukh0/AI-Medical-Chatbot)**  
-   AI-powered chatbot with voice and vision capabilities using Python, Gradio, Groq, and ElevenLabs.
-
+1. **[SmartShelfX – Infosys Springboard](https://github.com/SamarthDeshmukh0/Infosys-SpringBoard)**  
+   AI-based inventory forecast and auto-restock system developed during Infosys Springboard internship using Spring Boot, React, MySQL, and ML services.
+   
 2. **[Employee Management System](https://github.com/SamarthDeshmukh0/Employee-Management-System)**  
    Full-stack employee management application built with Spring Boot, React, and MySQL.
 
-3. **[SmartShelfX – Infosys Springboard](https://github.com/SamarthDeshmukh0/Infosys-SpringBoard)**  
-   AI-based inventory forecast and auto-restock system developed during Infosys Springboard internship using Spring Boot, React, MySQL, and ML services.
+3. **[AI Medical Chatbot](https://github.com/SamarthDeshmukh0/AI-Medical-Chatbot)**  
+   AI-powered chatbot with voice and vision capabilities using Python, Gradio, Groq, and ElevenLabs.
 
 ---
 
