@@ -23,8 +23,9 @@ Final-year B.E. CSE student passionate about building **scalable backend systems
 
 2. **[Employee Management System](https://github.com/SamarthDeshmukh0/Employee-Management-System)**  
    Full-stack employee management application built with Spring Boot, React, and MySQL.
+   ## 🎥 Demo Video 👉 [View Project Demo](https://drive.google.com/file/d/1ECqMG6t6KtOUmjP7MdlittUkMziapiuj/view)
 
-3. **[AI Medical Chatbot](https://github.com/SamarthDeshmukh0/AI-Medical-Chatbot)**  
+4. **[AI Medical Chatbot](https://github.com/SamarthDeshmukh0/AI-Medical-Chatbot)**  
    AI-powered chatbot with voice and vision capabilities using Python, Gradio, Groq, and ElevenLabs.
 
 ---
