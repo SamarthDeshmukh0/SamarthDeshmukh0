@@ -39,6 +39,7 @@ Final-year B.E. CSE student passionate about building **scalable backend systems
 ## 📫 Contact
 - Email: [samarthjdeshmukh@gmail.com](mailto:samarthjdeshmukh@gmail.com)  
 - GitHub: [https://github.com/SamarthDeshmukh0](https://github.com/SamarthDeshmukh0)
+- LinkedIn: [https://www.linkedin.com/in/samarth-deshmukh10/](https://www.linkedin.com/in/samarth-deshmukh10/)
 
 ---
 
